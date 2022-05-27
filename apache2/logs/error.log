@@ -1,0 +1,7 @@
+[Tue Jul 17 16:24:45.286907 2018] [mpm_winnt:notice] [pid 1548:tid 844] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Tue Jul 17 16:24:45.286907 2018] [mpm_winnt:notice] [pid 1548:tid 844] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Tue Jul 17 16:24:45.286907 2018] [core:notice] [pid 1548:tid 844] AH00094: Command line: 'C:\\Users\\87116\\Desktop\\Sem3 proj\\USBWebserver v8.6/apache2/bin/httpd_usbwv8.exe -d C:/Users/87116/Desktop/Sem3 proj/USBWebserver v8.6/apache2'
+[Tue Jul 17 16:24:45.289625 2018] [mpm_winnt:notice] [pid 1548:tid 844] AH00418: Parent: Created child process 13588
+[Tue Jul 17 16:24:45.718775 2018] [mpm_winnt:notice] [pid 13588:tid 816] AH00354: Child: Starting 64 worker threads.
+[Tue Jul 17 16:25:12.925784 2018] [:error] [pid 13588:tid 1324] [client 192.168.0.106:38466] PHP Notice:  Undefined variable: output in C:\\Users\\87116\\Desktop\\Sem3 proj\\USBWebserver v8.6\\root\\ss\\php\\SSselect.php on line 35
+[Tue Jul 17 16:25:39.691577 2018] [:error] [pid 13588:tid 1324] [client 192.168.0.106:38473] PHP Notice:  Undefined variable: output in C:\\Users\\87116\\Desktop\\Sem3 proj\\USBWebserver v8.6\\root\\ss\\php\\SSselect.php on line 35
